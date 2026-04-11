@@ -191,16 +191,6 @@ export GMAIL_APP_PASS="xxxx xxxx xxxx xxxx"
 Install all at once:
 ```bash
 pip install pillow openpyxl reportlab tqdm
-```
-
----
-
-## 🏫 About
-
-Built for **STRAT-A-THON 1.0** — a 24-hour hackathon held on **4–5 March 2026** at Vishnu Institute of Technology, Bhimavaram, organized by the **Techie Blazers Club**, Department of Computer Science and Business Systems (CSBS).
-
----
-
-## 📄 License
+# 📄 License
 
 MIT License — free to use and modify for your own events.
